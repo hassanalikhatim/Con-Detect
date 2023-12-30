@@ -1,0 +1,5 @@
+from _0_general_ML.model_utils.model_architectures.mlp import mlp
+from _0_general_ML.model_utils.model_architectures.cnn import cnn
+from _0_general_ML.model_utils.model_architectures.lstm import lstm
+from _0_general_ML.model_utils.model_architectures.hybrid_rnn_cnn import hybrid_rnn_cnn
+from _0_general_ML.model_utils.model_architectures.bert import bert

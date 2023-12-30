@@ -2,4 +2,30 @@
 
 This repository is an open-source code to reproduce the results of our paper titled, [Con-Detect: Detecting Adversarially Perturbed Natural Language Inputs to Deep Classifiers Through Holistic Analysis](https://www.sciencedirect.com/science/article/pii/S0167404823002778).
 
-The code will be available soon.
+We are still cleaning this code, and hope to complete it soon. Nevertheless, we have provided essential modules for interested users.
+
+
+## Citation
+If you use this code in your work, please cite using the following BibTeX entry:
+```
+@article{ali2023detect,
+  author       = {Hassan Ali and
+                  Muhammad Suleman Khan and
+                  Amer AlGhadhban and
+                  Meshari Alazmi and
+                  Ahmed Alzamil and
+                  Khaled Al{-}Utaibi and
+                  Junaid Qadir},
+  title        = {Con-Detect: Detecting adversarially perturbed natural language inputs
+                  to deep classifiers through holistic analysis},
+  journal      = {Computers & Security},
+  volume       = {132},
+  pages        = {103367},
+  year         = {2023},
+  url          = {https://doi.org/10.1016/j.cose.2023.103367},
+  doi          = {10.1016/J.COSE.2023.103367},
+  timestamp    = {Tue, 12 Sep 2023 07:58:16 +0200},
+  biburl       = {https://dblp.org/rec/journals/compsec/AliKAAAAQ23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
